@@ -2,6 +2,6 @@
 
 # Tour-of-TensorFlow-2.0
 
-This repository was made for a post on ML From Scratch called [TensorFlow 2.0 in 10 Minutes](https://mlfromscratch.com/p/18322acd-0bb7-4355-b45a-47d442fd2429/).
+This repository was made for a post on [ML From Scratch](https://mlfromscratch.com) called TensorFlow 2.0 in 10 Minutes.
 
 You can click the Google Colab button to instantly start running the code, or you can clone the project and run it locally. If this repository helped you, consider giving it a star.
